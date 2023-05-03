@@ -1,0 +1,1097 @@
+@media only screen and (max-width: 767px) {
+    .main-menu {
+        float: right
+    }
+    .mean-container a.meanmenu-reveal {
+        top: -55px!important;
+        right: 2px!important;
+        background: #FF8500!important;
+        left: 8px!important;
+    }
+    .mean-container .fa.fa-times {
+        position: relative;
+        right: 3px;
+        top: 1px
+    }
+    .mean-container .mean-bar {
+        position: inherit!important
+    }
+    .mean-container .mean-nav {
+        margin-top: 0!important
+    }
+    .menu-mobile {
+        padding: 0
+    }
+    .mean-container .mean-nav {
+        background: #FF8500!important
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        height: 20px!important
+    }
+    .mean-container .mean-bar {
+        padding: 0!important
+    }
+    .mean-container .mean-bar {
+        min-height: inherit!important
+    }
+    .header-bottom {
+        float: left;
+        width: 100%
+    }
+    .site-navigation {
+        width: 100%;
+        z-index: 9;
+        position: relative
+    }
+    .pull-left.logo,
+    .phone {
+        float: none!important;
+        padding-top: 10px
+    }
+    .pull-left.logo img {
+        margin: 0 auto;
+        width: 200px;
+        text-align: center;
+        display: block
+    }
+    .phone {
+        padding-top: 10px;
+        margin: 0 auto;
+        display: block;
+        width: 264px;
+        padding-bottom: 20px;
+        font-size: 11px
+    }
+    .popup-contact,
+    .carousel-caption {
+        display: none
+    }
+    .tollfreeno {
+        padding-left: 10px
+    }
+    h2 {
+        font-size: 22px;
+        padding-bottom: 8px!important;
+        padding-top: 0
+    }
+    .whatwedo {
+        padding-top: 25px
+    }
+    .whatwedo p {
+        line-height: 24px;
+        font-size: 15px;
+        padding-bottom: 10px
+    }
+    .step {
+        width: 100%
+    }
+    .step img {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        width: 200px;
+        display: block;
+        margin-bottom: 20px
+    }
+    .step img.last {
+        margin-right: auto
+    }
+    .catalogue .box {
+        width: 100%;
+        margin: 10px 0 20px;
+        float: none;
+        text-align: center;
+        padding: 0 20px 40px;
+        padding-bottom: 30px
+    }
+    .parallax h1,
+    .selling h3 {
+        font-size: 1.3em
+    }
+    .selling h3 {
+        padding-bottom: 0
+    }
+    .parallax p {
+        font-size: 16px;
+        padding-bottom: 14px;
+        width: 23%;
+        display: block;
+        float: left;
+        padding-left: 70px
+    }
+    .parallax span {
+        float: left;
+        clear: both;
+        display: block;
+        padding-left: 90px
+    }
+    .parallaxBg {
+        height: 400px
+    }
+    .showcase-button-wrapper span {
+        clear: none;
+        padding: 0
+    }
+    .showcase-button-wrapper {
+        top: -194px
+    }
+    .formdiv input,
+    .formdiv select,
+    .formdiv textarea {
+        margin-bottom: 0;
+        margin-top: 20px;
+        width: 100%;
+        margin-right: 0
+    }
+    .formdiv textarea {
+        margin-bottom: 20px
+    }
+    .disclaimer {
+        margin-top: 30px
+    }
+    .disclaimer h3 {
+        font-size: 25px;
+        padding-bottom: 8px;
+        padding-top: 14px
+    }
+    .disclaimer p {
+        line-height: 24px;
+        font-size: 15px
+    }
+    .footer_bottom {
+        height: auto;
+        line-height: 22px
+    }
+    .footer_bottom li {
+        font-size: 12px;
+        margin-right: 0
+    }
+    .header-bottom.fixed {
+        position: inherit
+    }
+    .catalogue.padding30 {
+        padding-bottom: 10px
+    }
+    p,
+    .container-block li {
+        font-size: 1em;
+        line-height: 24px;
+        text-align: left
+    }
+    .inner-banner {
+        background-size: 100%;
+        height: 100%
+    }
+    .inner-banner-bg {
+        height: 100%
+    }
+    .inner-banner h1 {
+        padding-bottom: 9px;
+        padding-top: 9px;
+        font-size: 18px;
+        margin: 0
+    }
+    .inner-banner .line {
+        border-bottom: 3px solid #fff;
+        position: relative;
+        top: -15px;
+        display: none
+    }
+    .container-block img {
+        margin-left: 10px;
+        margin-bottom: 10px;
+        width: 40%
+    }
+    .captcha {
+        clear: both;
+        margin-bottom: 20px
+    }
+    #topcontrol {
+        bottom: 5px!important
+    }
+    .client-block li {
+        float: none;
+        padding: 5px;
+        margin: 0 auto;
+        margin-bottom: 20px!important;
+        height: 104px
+    }
+    .thumbimg {
+        margin: 0 auto!important;
+        text-align: center;
+        display: block;
+        padding-bottom: 10px;
+        padding-top: 10px
+    }
+    .client-block li:nth-of-type(5n) {
+        margin-right: auto
+    }
+    .blogs {
+        height: auto
+    }
+    .blogs p {
+        margin-left: 0;
+        top: 0;
+        overflow: inherit
+    }
+    .blogs>a {
+        float: left;
+        margin-left: 0;
+        top: 0;
+        clear: both
+    }
+    .blogs .c-txt {
+        font-size: 15px;
+        font-weight: 400
+    }
+    .container-block input,
+    .container-block select,
+    .container-block textarea {
+        margin-bottom: 20px;
+        margin-top: 0
+    }
+    .cntimg {
+        margin-top: 0;
+        margin-bottom: 0;
+        width: 100%!important
+    }
+    .pm-button img {
+        width: 100%!important
+    }
+    .mean-container .mean-nav ul li a {
+        text-transform: capitalize
+    }
+    .right-side h2,
+    p {
+        padding-top: 0!important;
+        text-align: left!important;
+        margin: 0
+    }
+    .vertical-registration-form {
+        width: 100%!important;
+        margin-top: -2px!important;
+        padding: 30px 10px 20px!important
+    }
+    .seo-bg {
+        background-size: 100%!important
+    }
+    .leadership-image img {
+        height: auto;
+        width: 100%!important
+    }
+    .modal-lg {
+        width: 96%;
+        z-index: 9999
+    }
+    .modal-content {
+        height: 450px;
+        padding: 20px;
+        overflow-x: hidden
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width:767px) {
+    .parallax p {
+        width: 34%
+    }
+    .parallax span {
+        padding-left: 170px
+    }
+    .showcase-button-wrapper span {
+        padding: 0
+    }
+    .showcase-button-wrapper {
+        top: -244px;
+        left: 20px
+    }
+    .parallaxBg {
+        height: 350px
+    }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    nav.main-menu ul>li a {
+        padding: 16px 8px;
+        font-size: 16px;
+        text-transform: capitalize
+    }
+    .carousel-caption .big,
+    .carousel-caption .small {
+        display: none
+    }
+    .carousel-caption {
+        right: 10%!important;
+        left: 10%!important
+    }
+    .step img {
+        margin-right: 40px
+    }
+    .catalogue .box {
+        width: 348px;
+        margin-right: 20px
+    }
+    .catalogue .box:nth-of-type(2n) {
+        margin-right: 0!important
+    }
+    .catalogue .box:nth-of-type(3n) {
+        margin-right: 20px
+    }
+    .parallax p {
+        width: 50%;
+        display: block;
+        float: left;
+        padding-left: 100px
+    }
+    .parallax span {
+        float: left;
+        clear: both;
+        display: block;
+        padding-left: 310px
+    }
+    .parallaxBg {
+        height: 400px
+    }
+    .showcase-button-wrapper span {
+        clear: none;
+        padding: 0
+    }
+    .showcase-button-wrapper {
+        top: -224px
+    }
+    .formdiv input,
+    .formdiv select,
+    .formdiv textarea {
+        margin-bottom: 0;
+        margin-top: 20px;
+        width: 100%;
+        margin-right: 0
+    }
+    .disclaimer {
+        margin-top: 30px
+    }
+    .disclaimer h3 {
+        font-size: 25px;
+        padding-bottom: 8px;
+        padding-top: 14px
+    }
+    .disclaimer p {
+        line-height: 24px;
+        font-size: 15px
+    }
+    footer p {
+        text-align: left
+    }
+    .footer_bottom li {
+        float: none;
+        margin-right: 0
+    }
+    .footer_bottom {
+        height: auto;
+        line-height: 30px
+    }
+    footer .social li {
+        width: 30px;
+        height: 30px
+    }
+    footer .social li a {
+        line-height: 30px
+    }
+    .formdiv textarea {
+        margin-bottom: 20px
+    }
+    .captcha {
+        clear: both;
+        margin-bottom: 20px
+    }
+    .client-block li:nth-of-type(5n) {
+        margin-right: 20px;
+        margin-bottom: 20px!important
+    }
+    .blogs {
+        height: 260px
+    }
+    .blogs p {
+        margin-left: 270px;
+        top: -100px;
+        overflow: inherit;
+        font-size: 14px;
+        line-height: 22px
+    }
+    .blogs>a {
+        float: left;
+        margin-left: 270px;
+        top: -110px;
+        clear: both
+    }
+    .blogs .c-txt {
+        font-size: 15px
+    }
+    .container-block input,
+    .container-block select,
+    .container-block textarea {
+        margin-bottom: 20px;
+        margin-top: 0
+    }
+    .leadership-image img {
+        height: auto;
+        width: 100%!important
+    }
+    .modal-lg {
+        width: 96%;
+        z-index: 9999
+    }
+    .modal-content {
+        height: 450px;
+        padding: 20px;
+        overflow-x: hidden
+    }
+}
+
+@media (min-width: 980px) and (max-width:1199px) {
+    .container {
+        width: 98%
+    }
+    nav.main-menu ul>li a {
+        padding: 16px 15px
+    }
+    .carousel-caption {
+        bottom: 50px
+    }
+    .carousel-caption .big,
+    .carousel-caption .small {
+        display: block
+    }
+    .carousel-caption .big {
+        font-size: 30px;
+        line-height: 42px
+    }
+    .carousel-caption .small {
+        padding-bottom: 10px
+    }
+    .step {
+        width: 770px!important
+    }
+    .catalogue .box {
+        width: 296px;
+        margin-right: 20px;
+        min-height: 370px
+    }
+    .catalogue .box:nth-of-type(2n) {
+        margin-right: 20px!important
+    }
+    .catalogue .box:nth-of-type(3n) {
+        margin-right: 0!important
+    }
+    .parallax p {
+        width: 64%
+    }
+    .parallax span {
+        padding-left: 410px
+    }
+    .showcase-button-wrapper span {
+        padding: 0
+    }
+    .carousel-indicators {
+        bottom: 2px!important
+    }
+    .footer_bottom li {
+        float: left;
+        margin-right: 20px
+    }
+    footer p {
+        font-size: 13px
+    }
+    .client-block li:nth-of-type(5n) {
+        margin-right: 20px;
+        margin-bottom: 20px!important
+    }
+    .leadership-image img {
+        height: auto;
+        width: 100%!important
+    }
+    .modal-lg {
+        width: 96%;
+        z-index: 9999
+    }
+    .modal-content {
+        height: 450px;
+        padding: 20px;
+        overflow-x: hidden
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width:1200px) {
+    .step {
+        width: 792px!important
+    }
+    .catalogue .box {
+        width: 310px
+    }
+    .parallax p {
+        width: 64%;
+        padding-left: 120px;
+        float: left
+    }
+    .parallax span {
+        width: 64%;
+        padding-left: 120px;
+        float: left;
+        padding-left: 420px;
+        float: left;
+        clear: both
+    }
+    .showcase-button-wrapper span {
+        clear: none;
+        padding: 0;
+        width: 24%
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .main-menu {
+        float: right
+    }
+    .mean-container a.meanmenu-reveal {
+        top: -55px!important;
+        right: 2px!important;
+        background: #FF8500!important;
+        left: 8px!important;
+    }
+    .mean-container .fa.fa-times {
+        position: relative;
+        right: 3px;
+        top: 1px
+    }
+    .mean-container .mean-bar {
+        position: inherit!important
+    }
+    .mean-container .mean-nav {
+        margin-top: 0!important
+    }
+    .menu-mobile {
+        padding: 0
+    }
+    .mean-container .mean-nav {
+        background: #FF8500!important
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        height: 20px!important
+    }
+    .mean-container .mean-bar {
+        padding: 0!important
+    }
+    .mean-container .mean-bar {
+        min-height: inherit!important
+    }
+    .header-bottom {
+        float: left;
+        width: 100%
+    }
+    .site-navigation {
+        width: 100%;
+        z-index: 9;
+        position: relative
+    }
+    .pull-left.logo,
+    .phone {
+        float: none!important;
+        padding-top: 10px
+    }
+    .pull-left.logo img {
+        margin: 0 auto;
+        width: 200px;
+        text-align: center;
+        display: block
+    }
+    .phone {
+        padding-top: 10px;
+        margin: 0 auto;
+        display: block;
+        width: 264px;
+        padding-bottom: 20px;
+        font-size: 11px
+    }
+    .popup-contact,
+    .carousel-caption {
+        display: none
+    }
+    .tollfreeno {
+        padding-left: 10px
+    }
+    h2 {
+        font-size: 22px;
+        padding-bottom: 8px!important;
+        padding-top: 0
+    }
+    .whatwedo {
+        padding-top: 25px
+    }
+    .whatwedo p {
+        line-height: 24px;
+        font-size: 15px;
+        padding-bottom: 10px
+    }
+    .step {
+        width: 100%
+    }
+    .step img {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        width: 200px;
+        display: block;
+        margin-bottom: 20px
+    }
+    .step img.last {
+        margin-right: auto
+    }
+    .catalogue .box {
+        width: 100%;
+        margin: 10px 0 20px;
+        float: none;
+        text-align: center;
+        padding: 0 20px 40px;
+        padding-bottom: 30px
+    }
+    .parallax h1,
+    .selling h3 {
+        font-size: 1.3em
+    }
+    .selling h3 {
+        padding-bottom: 0
+    }
+    .parallax p {
+        font-size: 16px;
+        padding-bottom: 14px;
+        width: 23%;
+        display: block;
+        float: left;
+        padding-left: 70px
+    }
+    .parallax span {
+        float: left;
+        clear: both;
+        display: block;
+        padding-left: 90px
+    }
+    .parallaxBg {
+        height: 400px
+    }
+    .showcase-button-wrapper span {
+        clear: none;
+        padding: 0
+    }
+    .showcase-button-wrapper {
+        top: -194px
+    }
+    .formdiv input,
+    .formdiv select,
+    .formdiv textarea {
+        margin-bottom: 0;
+        margin-top: 20px;
+        width: 100%;
+        margin-right: 0
+    }
+    .formdiv textarea {
+        margin-bottom: 20px
+    }
+    .disclaimer {
+        margin-top: 30px
+    }
+    .disclaimer h3 {
+        font-size: 25px;
+        padding-bottom: 8px;
+        padding-top: 14px
+    }
+    .disclaimer p {
+        line-height: 24px;
+        font-size: 15px
+    }
+    .footer_bottom {
+        height: auto;
+        line-height: 22px
+    }
+    .footer_bottom li {
+        font-size: 12px;
+        margin-right: 0
+    }
+    .header-bottom.fixed {
+        position: inherit
+    }
+    .catalogue.padding30 {
+        padding-bottom: 10px
+    }
+    p,
+    .container-block li {
+        font-size: 1em;
+        line-height: 24px;
+        text-align: left
+    }
+    .inner-banner {
+        background-size: 100%;
+        height: 100%
+    }
+    .inner-banner-bg {
+        height: 100%
+    }
+    .inner-banner h1 {
+        padding-bottom: 9px;
+        padding-top: 9px;
+        font-size: 18px;
+        margin: 0
+    }
+    .inner-banner .line {
+        border-bottom: 3px solid #fff;
+        position: relative;
+        top: -15px;
+        display: none
+    }
+    .container-block img {
+        margin-left: 10px;
+        margin-bottom: 10px;
+        width: 40%
+    }
+    .captcha {
+        clear: both;
+        margin-bottom: 20px
+    }
+    #topcontrol {
+        bottom: 5px!important
+    }
+    .client-block li {
+        float: none;
+        padding: 5px;
+        margin: 0 auto;
+        margin-bottom: 20px!important;
+        height: 104px
+    }
+    .thumbimg {
+        margin: 0 auto!important;
+        text-align: center;
+        display: block;
+        padding-bottom: 10px;
+        padding-top: 10px
+    }
+    .client-block li:nth-of-type(5n) {
+        margin-right: auto
+    }
+    .blogs {
+        height: auto
+    }
+    .blogs p {
+        margin-left: 0;
+        top: 0;
+        overflow: inherit
+    }
+    .blogs>a {
+        float: left;
+        margin-left: 0;
+        top: 0;
+        clear: both
+    }
+    .blogs .c-txt {
+        font-size: 15px;
+        font-weight: 400
+    }
+    .container-block input,
+    .container-block select,
+    .container-block textarea {
+        margin-bottom: 20px;
+        margin-top: 0
+    }
+    .cntimg {
+        margin-top: 0;
+        margin-bottom: 0;
+        width: 100%!important
+    }
+    .pm-button img {
+        width: 100%!important
+    }
+    .mean-container .mean-nav ul li a {
+        text-transform: capitalize
+    }
+    .right-side h2,
+    p {
+        padding-top: 0!important;
+        text-align: left!important;
+        margin: 0
+    }
+    .vertical-registration-form {
+        width: 100%!important;
+        margin-top: -2px!important;
+        padding: 30px 10px 20px!important
+    }
+    .seo-bg {
+        background-size: 100%!important
+    }
+    .leadership-image img {
+        height: auto;
+        width: 100%!important
+    }
+    .modal-lg {
+        width: 96%;
+        z-index: 9999
+    }
+    .modal-content {
+        height: 450px;
+        padding: 20px;
+        overflow-x: hidden
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width:767px) {
+    .parallax p {
+        width: 34%
+    }
+    .parallax span {
+        padding-left: 170px
+    }
+    .showcase-button-wrapper span {
+        padding: 0
+    }
+    .showcase-button-wrapper {
+        top: -244px;
+        left: 20px
+    }
+    .parallaxBg {
+        height: 350px
+    }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    nav.main-menu ul>li a {
+        padding: 16px 8px;
+        font-size: 16px;
+        text-transform: capitalize
+    }
+    .carousel-caption .big,
+    .carousel-caption .small {
+        display: none
+    }
+    .carousel-caption {
+        right: 10%!important;
+        left: 10%!important
+    }
+    .step img {
+        margin-right: 40px
+    }
+    .catalogue .box {
+        width: 348px;
+        margin-right: 20px
+    }
+    .catalogue .box:nth-of-type(2n) {
+        margin-right: 0!important
+    }
+    .catalogue .box:nth-of-type(3n) {
+        margin-right: 20px
+    }
+    .parallax p {
+        width: 50%;
+        display: block;
+        float: left;
+        padding-left: 100px
+    }
+    .parallax span {
+        float: left;
+        clear: both;
+        display: block;
+        padding-left: 310px
+    }
+    .parallaxBg {
+        height: 400px
+    }
+    .showcase-button-wrapper span {
+        clear: none;
+        padding: 0
+    }
+    .showcase-button-wrapper {
+        top: -224px
+    }
+    .formdiv input,
+    .formdiv select,
+    .formdiv textarea {
+        margin-bottom: 0;
+        margin-top: 20px;
+        width: 100%;
+        margin-right: 0
+    }
+    .disclaimer {
+        margin-top: 30px
+    }
+    .disclaimer h3 {
+        font-size: 25px;
+        padding-bottom: 8px;
+        padding-top: 14px
+    }
+    .disclaimer p {
+        line-height: 24px;
+        font-size: 15px
+    }
+    footer p {
+        text-align: left
+    }
+    .footer_bottom li {
+        float: none;
+        margin-right: 0
+    }
+    .footer_bottom {
+        height: auto;
+        line-height: 30px
+    }
+    footer .social li {
+        width: 30px;
+        height: 30px
+    }
+    footer .social li a {
+        line-height: 30px
+    }
+    .formdiv textarea {
+        margin-bottom: 20px
+    }
+    .captcha {
+        clear: both;
+        margin-bottom: 20px
+    }
+    .client-block li:nth-of-type(5n) {
+        margin-right: 20px;
+        margin-bottom: 20px!important
+    }
+    .blogs {
+        height: 260px
+    }
+    .blogs p {
+        margin-left: 270px;
+        top: -100px;
+        overflow: inherit;
+        font-size: 14px;
+        line-height: 22px
+    }
+    .blogs>a {
+        float: left;
+        margin-left: 270px;
+        top: -110px;
+        clear: both
+    }
+    .blogs .c-txt {
+        font-size: 15px
+    }
+    .container-block input,
+    .container-block select,
+    .container-block textarea {
+        margin-bottom: 20px;
+        margin-top: 0
+    }
+    .leadership-image img {
+        height: auto;
+        width: 100%!important
+    }
+    .modal-lg {
+        width: 96%;
+        z-index: 9999
+    }
+    .modal-content {
+        height: 450px;
+        padding: 20px;
+        overflow-x: hidden
+    }
+}
+
+@media (min-width: 980px) and (max-width:1199px) {
+    .container {
+        width: 98%
+    }
+    nav.main-menu ul>li a {
+        padding: 16px 15px
+    }
+    .carousel-caption {
+        bottom: 50px
+    }
+    .carousel-caption .big,
+    .carousel-caption .small {
+        display: block
+    }
+    .carousel-caption .big {
+        font-size: 30px;
+        line-height: 42px
+    }
+    .carousel-caption .small {
+        padding-bottom: 10px
+    }
+    .step {
+        width: 770px!important
+    }
+    .catalogue .box {
+        width: 296px;
+        margin-right: 20px;
+        min-height: 370px
+    }
+    .catalogue .box:nth-of-type(2n) {
+        margin-right: 20px!important
+    }
+    .catalogue .box:nth-of-type(3n) {
+        margin-right: 0!important
+    }
+    .parallax p {
+        width: 64%
+    }
+    .parallax span {
+        padding-left: 410px
+    }
+    .showcase-button-wrapper span {
+        padding: 0
+    }
+    .carousel-indicators {
+        bottom: 2px!important
+    }
+    .footer_bottom li {
+        float: left;
+        margin-right: 20px
+    }
+    footer p {
+        font-size: 13px
+    }
+    .client-block li:nth-of-type(5n) {
+        margin-right: 20px;
+        margin-bottom: 20px!important
+    }
+    .leadership-image img {
+        height: auto;
+        width: 100%!important
+    }
+    .modal-lg {
+        width: 96%;
+        z-index: 9999
+    }
+    .modal-content {
+        height: 450px;
+        padding: 20px;
+        overflow-x: hidden
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width:1200px) {
+    .step {
+        width: 792px!important
+    }
+    .catalogue .box {
+        width: 310px
+    }
+    .parallax p {
+        width: 64%;
+        padding-left: 120px;
+        float: left
+    }
+    .parallax span {
+        width: 64%;
+        padding-left: 120px;
+        float: left;
+        padding-left: 420px;
+        float: left;
+        clear: both
+    }
+    .showcase-button-wrapper span {
+        clear: none;
+        padding: 0;
+        width: 24%
+    }
+}
